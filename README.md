@@ -1,2 +1,1 @@
-# the-decaf-monster-code
-Code samples for my personal blog, the.decaf.monster
+Code samples for my personal blog, [the.decaf.monster](https://the.decaf.monster).
